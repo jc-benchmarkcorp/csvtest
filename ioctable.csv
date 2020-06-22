@@ -1,2 +1,2 @@
-"type","actor","raw","threatlevel","threat"
-"Malware","China","test","high","84.112.91.96"
+"threat","type","actor","raw","threatlevel"
+"84.112.91.96","Malware","China","test","high"
