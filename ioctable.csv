@@ -1,2 +1,4 @@
 "threat","type","actor","raw","threatlevel"
 "84.112.91.92","Ransomware","Canada","test","high"
+"slade.safehousenumber.com","Ransomware","Canada","test","high"
+"http://slade.safehousenumber.com","Ransomware","Canada","test","high"
