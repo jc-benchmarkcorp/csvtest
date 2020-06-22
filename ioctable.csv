@@ -1,2 +1,2 @@
-threat,type,actor,raw,threatlevel
-84.112.91.96,Malware,China,test,high
+threat,type,actor,raw,threatlevel,malicious_confidence
+84.112.91.96,Malware,China,test,high,low
