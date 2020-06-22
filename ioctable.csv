@@ -1,2 +1,2 @@
-﻿type,actor,raw,threatlevel
-Malware,China,,high
+﻿"""type""","""actor""","""raw""","""threatlevel""","""threat"""
+"""Malware""","""China""",,"""high""","""84.112.91.96"""
